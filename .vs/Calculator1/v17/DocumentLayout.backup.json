@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C62DA3-EE7A-452D-9A2D-25C7719E2CC2}|Calculator1\\Calculator1.csproj|c:\\users\\aabdelkar\\source\\repos\\calculator1\\calculator1\\calculator5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C62DA3-EE7A-452D-9A2D-25C7719E2CC2}|Calculator1\\Calculator1.csproj|solutionrelative:calculator1\\calculator5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C62DA3-EE7A-452D-9A2D-25C7719E2CC2}|Calculator1\\Calculator1.csproj|c:\\users\\aabdelkar\\source\\repos\\calculator1\\calculator1\\calcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C62DA3-EE7A-452D-9A2D-25C7719E2CC2}|Calculator1\\Calculator1.csproj|solutionrelative:calculator1\\calcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444C55D4-D99E-49FD-B173-7175C262EBD7}|TestingCalculation\\TestingCalculation.csproj|c:\\users\\aabdelkar\\source\\repos\\calculator1\\testingcalculation\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444C55D4-D99E-49FD-B173-7175C262EBD7}|TestingCalculation\\TestingCalculation.csproj|solutionrelative:testingcalculation\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C62DA3-EE7A-452D-9A2D-25C7719E2CC2}|Calculator1\\Calculator1.csproj|c:\\users\\aabdelkar\\source\\repos\\calculator1\\calculator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C62DA3-EE7A-452D-9A2D-25C7719E2CC2}|Calculator1\\Calculator1.csproj|solutionrelative:calculator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C62DA3-EE7A-452D-9A2D-25C7719E2CC2}|Calculator1\\Calculator1.csproj|c:\\users\\aabdelkar\\source\\repos\\calculator1\\calculator1\\icalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C62DA3-EE7A-452D-9A2D-25C7719E2CC2}|Calculator1\\Calculator1.csproj|solutionrelative:calculator1\\icalcolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalcolo.cs",
+              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\Calculator1\\ICalcolo.cs",
+              "RelativeDocumentMoniker": "Calculator1\\ICalcolo.cs",
+              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\Calculator1\\ICalcolo.cs",
+              "RelativeToolTip": "Calculator1\\ICalcolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:51:56.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calcolo.cs",
+              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\Calculator1\\Calcolo.cs",
+              "RelativeDocumentMoniker": "Calculator1\\Calcolo.cs",
+              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\Calculator1\\Calcolo.cs",
+              "RelativeToolTip": "Calculator1\\Calcolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:15:07.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\TestingCalculation\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestingCalculation\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\TestingCalculation\\UnitTest1.cs",
+              "RelativeToolTip": "TestingCalculation\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T09:02:39.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator5.cs",
+              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\Calculator1\\Calculator5.cs",
+              "RelativeDocumentMoniker": "Calculator1\\Calculator5.cs",
+              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\Calculator1\\Calculator5.cs",
+              "RelativeToolTip": "Calculator1\\Calculator5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T08:01:40.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\Calculator1\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator1\\Program.cs",
+              "ToolTip": "C:\\Users\\aabdelkar\\source\\repos\\Calculator1\\Calculator1\\Program.cs",
+              "RelativeToolTip": "Calculator1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T07:25:00.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
